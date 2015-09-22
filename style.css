@@ -1,0 +1,36 @@
+body {
+    background-color: #ffffcc;
+    width: 761px;
+    margin: 1.5em auto; /*centers */
+    border: 10px solid #dd8360;
+    background-color: #dfd3b6;
+    padding: 50px;
+    font-family: "georgia", Times, serif;
+    color: #746a56;
+}
+
+img {
+    text-align: center;
+}
+
+h1 {
+    background-color: #ffffff;
+    color: #dd8360;
+    text-align: center;
+    border: dotted #b0e0e6 10px;
+
+}
+
+h2 {
+	color: #dd8360;
+	padding: 7px;
+}
+
+h3 {
+    color: #dd8360;
+  }
+
+p {
+    color: #746a56;
+    text-align: justify;
+}
