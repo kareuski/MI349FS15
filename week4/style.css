@@ -1,57 +1,39 @@
 body {
-  background: #ccc;
+  background: #ccc url(mosaic.jpg) repeat top center;;
   margin: 0;
   font-family: Helvetica;
+  color: #454545;
 }
 
 .container {
   margin: 0 auto;
-  width: 700px;
-  padding-top: 150px;
-  background: #fff url(alton-brown-onion-dip.jpg) no-repeat top center;
-  border-top: 10px solid #424242;
+  width: 810px;
+  padding-top: 200px;
+  background: #fff url(free.jpg) repeat top center;
+  border-top: 5px solid #424242;
 }
 
-.recipe {
-  padding: 20px 40px;
+.blog {
+  padding: 100px 60px;
   background: #fff;
 }
 
-/*
-Pseudo classes
-LoVHAte (:link, :visited, :hover, :active)
-:first-child
-:last-child
-:nth-child(an+b/even/odd/n)
-*/
+h3{
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
+
 
 a:link, a:visited {
-  color: #424242;
+  color: #4d5d84;
   text-decoration: none;
 }
 
 a:hover{
-  background: yellow;
-  font-size: 1.4em;
+  background: #f2ece3;
+  font-size: 1.1em;
+  text-decoration: underline;
 }
-
-a:hover{
-  background: red;
-}
-
-ul li:nth-child(even){
-
-}
-
-/* Inline, Inline-Block and Block */
-
-ul li{
-  display: inline-block;
-  padding: 10x;
-  border: 1px solid #000;
-  width: 180px;
-  margin: 0;
-}
-
-
-/* Float example */
