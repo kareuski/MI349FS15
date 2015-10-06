@@ -1,5 +1,5 @@
 body {
-  background: #ccc url(mosaic.jpg) repeat top center;;
+  background: #ccc url(mosaic.jpg) repeat top center;
   margin: 0;
   font-family: Helvetica;
   color: #454545;
@@ -8,7 +8,7 @@ body {
 .container {
   margin: 0 auto;
   width: 810px;
-  padding-top: 200px;
+  padding-top: 233px;
   background: #fff url(free.jpg) repeat top center;
   border-top: 5px solid #424242;
 }
