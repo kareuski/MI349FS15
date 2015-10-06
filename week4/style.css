@@ -30,10 +30,16 @@ h4{
 a:link, a:visited {
   color: #4d5d84;
   text-decoration: none;
+  text-align: center;
 }
 
 a:hover{
   background: #f2ece3;
   font-size: 1.1em;
   text-decoration: underline;
+  text-align: center;
+}
+
+.comps{
+  clear: both;
 }
