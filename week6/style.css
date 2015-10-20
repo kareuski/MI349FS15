@@ -1,0 +1,36 @@
+body {
+  background: #454545 repeat top center;
+  margin: 0;
+  font-family: Helvetica;
+  color: #454545;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1000px;
+  padding-top: 10px;
+  padding-bottom: 100px;
+  background: #fff repeat top center;
+}
+
+table{
+  text-align:center;
+  margin: 0 auto;
+}
+
+h1{
+  background-color: #afd4af;
+  padding: 40px;
+  color: #fff;
+  font-size: 600%;
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h2{
+  color: red;
+  background-color: blue;
+  text-align: right;
+  text-decoration: underline;
+  font-family: cursive;
+}
