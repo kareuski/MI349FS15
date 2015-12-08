@@ -1,0 +1,77 @@
+#nav {
+	list-style-type: none;
+	padding: 8px;
+	margin: 0;
+	border: 1px solid #2a282b;
+}
+
+#nav li {
+	display: inline;
+}
+
+#nav a {
+	color: #2a282b;
+	text-decoration:none;
+	padding: 10px;
+	margin-left: 100px;
+}
+
+#nav a:hover{
+	color: #99cccc;
+}
+
+html {
+	background: #ccc url(mosaic.jpg) repeat top center;
+}
+
+body {
+  margin: 0 auto;
+  font-family: Helvetica;
+  color: #2a282b;
+}
+
+h2{
+	text-align: center;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+
+li{
+	color: #2a282b;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+  margin: 0 auto;
+  width: 810px;
+	min-height: 600px;
+  background: #fff repeat top center;
+}
+
+.flex {
+	display: flex;
+}
+
+.sidebar {
+	padding: 20px;
+	background: #99cccc;
+	color: #fff;
+}
+
+.sidebar-two {
+	padding: 50px;
+	width:550px;
+}
+
+.sidebar-three {
+	padding: 20px;
+	background: #fff;
+	color: #2a282b;
+}
