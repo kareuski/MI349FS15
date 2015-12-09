@@ -20,6 +20,7 @@
 	color: #99cccc;
 }
 
+
 html {
 	background: #ccc url(mosaic.jpg) repeat top center;
 }
@@ -65,9 +66,20 @@ li{
 	color: #fff;
 }
 
+.sidebar a{
+	color: #fff;
+}
+.sidebar a:link {
+	text-decoration: none;
+}
+
 .sidebar-two {
 	padding: 50px;
 	width:550px;
+}
+
+p.image {
+	text-align: center;
 }
 
 .sidebar-three {
