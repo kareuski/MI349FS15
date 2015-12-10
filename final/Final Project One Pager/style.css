@@ -1,0 +1,45 @@
+body {
+  background: #ccc url(mosaic.jpg) repeat top center;
+  margin: 0;
+  font-family: Helvetica;
+  color: #454545;
+}
+
+.container {
+  margin: 0 auto;
+  width: 810px;
+  padding-top: 233px;
+  background: #fff url(free.jpg) repeat top center;
+  border-top: 5px solid #424242;
+}
+
+.blog {
+  padding: 100px 60px;
+  background: #fff;
+}
+
+h3{
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
+
+
+a:link, a:visited {
+  color: #4d5d84;
+  text-decoration: none;
+  text-align: center;
+}
+
+a:hover{
+  background: #f2ece3;
+  font-size: 1.1em;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.comps{
+  clear: both;
+}
